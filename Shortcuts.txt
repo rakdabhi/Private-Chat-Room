@@ -1,5 +1,0 @@
-cd "C:\Users\raksh\Desktop\GA Tech\2021-2022 Spring Semester\CS 3251\Project 1\PA1"
-
-python3 server.py -start -port 12000 -passcode passw
-
-python3 client.py -join -host 127.0.0.1 -port 12000 -username SyncD -passcode passw
